@@ -1,0 +1,17 @@
+Time used-
+655.39us for both encryption and decryption of each mode.
+Screenshots of these are present in respective folder of different modes.
+
+We have submitted a folder ClasherS_ps2. In this folder we have subfolders-
+1) Output Images- contain all encyrpted and decrypted image of each mode. (cbc_dec means decrypted image for cbc mode)
+2) ecb, cbc, cfb, ofb- contain verilog and other files of respective mode.
+	test.v- test bench
+	cbc_d.v- decryption module(top module)
+	cbc_e.v- encryption module(top module)
+	processkey.v- module for expansion of key
+	cbc_dec.txt- decrypted text file(this file is converted to image to get decrypted image)
+	cbc_enc.txt- encrypted text file(this file is converted to image to get encrypted image)
+	binary.txt- image converted to binary text file 
+similarly, files are present in each folder. 
+3) bin_to_img.py- convert binary txt file to image.
+4) img_to_bin.py- convert image file to binary txt file.
