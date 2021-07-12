@@ -20,7 +20,41 @@ Now we have a [binary file](https://drive.google.com/file/d/1sv3McjstNTsyuFuCgej
 
 ### Solution-
 All files are uploaded in this [Folder](https://drive.google.com/drive/folders/1RY1nacWV1pgeSxUQ8AQtCQ7WS-oZZzpe?usp=sharing).
-Please refer [this file]() to understand what each file do.
+Please refer [this file](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/ClasherS_Explanation.txt) to understand what each file do.
+
+### Results-
+
+### ECB (Electronic Code Book) mode-
+
+**Encrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/ecb_enc.png)
+
+**Decrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/ecb_dec.png)
+
+### CBC (Cipher Block Chaining) mode-
+
+**Encrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/cbc_enc.png)
+
+**Decrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/cbc_dec.png)
+
+### CFB (Cipher FeedBack) mode-
+
+**Encrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/cfb_enc.png)
+
+**Decrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/cfb_dec.png)
+
+### OFB (Output FeedBack) mode-
+
+**Encrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/ofb_enc.png)
+
+**Decrypted image-**
+![im](https://github.com/ujjawalece/AES-and-DES-Implementation-in-Verilog-Xilinx-/blob/main/ofb_dec.png)
 
 
 
